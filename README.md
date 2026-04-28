@@ -1,9 +1,3 @@
-PhishNet is a lightweight machine learning-based Chrome extension that detects phishing websites in real-time using URL, textual (TF-IDF), and HTML structure features.
-
-🔹 2. README.md (Full Professional Version)
-
-You can copy this directly 👇
-
 🛡️ PhishNet – Real-Time Phishing Detection System
 
 PhishNet is a lightweight machine learning-based browser defense system designed to detect phishing websites in real time. It combines URL analysis, textual feature extraction, and HTML structure inspection to improve detection accuracy while maintaining low latency.
